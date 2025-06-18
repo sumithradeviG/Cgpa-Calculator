@@ -1,0 +1,16 @@
+# Java class files
+*.class
+
+# Package Files #
+*.jar
+
+# Eclipse/NetBeans/IntelliJ project files
+*.iml
+*.ipr
+*.iws
+.idea/
+*.log
+
+# MacOS/Windows junk
+.DS_Store
+Thumbs.db
